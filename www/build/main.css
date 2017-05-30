@@ -26958,3 +26958,12 @@ ion-navbar.toolbar {
     padding-top: calc(16px + 20px);
   }
 }
+
+page-home .scroll {
+  height: 100%;
+}
+
+page-home #map {
+  width: 100%;
+  height: 100%;
+}
